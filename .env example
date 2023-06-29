@@ -1,0 +1,10 @@
+apikey="<your key>"
+completion_model = "Deployment name example text-davinci-003"
+chat_model = "Deployment name example gpt-4"
+api_base = "<your api >"
+api_version = "2023-03-15-preview"
+embedding_model = "Deployment name example  text-embedding-ada-002"
+
+AZURE_OPENAI_API_KEY="<>"
+AZURE_OPENAI_ENDPOINT="<>"
+AZURE_OPENAI_DEPLOYMENT_NAME="Deployment name example  text-davinci-003"
